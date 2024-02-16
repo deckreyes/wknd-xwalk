@@ -2,8 +2,7 @@
     {
       "id": "main",
       "components": [
-        "section",
-        "tab"
+        "section"
       ]
     },
     {
@@ -33,7 +32,8 @@
         "teaser",
         "featured-article",
         "blockquote",
-        "article-details"
+        "article-details",
+        "tab"
       ]
     },
     {
